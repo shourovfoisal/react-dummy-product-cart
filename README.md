@@ -22,4 +22,4 @@ This contains my initial fun learn project. A simple dummy product cart represen
 <p>Mobile responsive</p>
 
 <h2>Navigate</h2>
-<a href="https://shourovfoisal.github.io/react_dummy_product_cart">Live demo</a> | <a href="https://github.com/shourovfoisal">See my other projects</a> | <a href="https://www.foisal.me">My portfolio</a>
+<a href="https://shourovfoisal.github.io/react-dummy-product-cart">Live demo</a> | <a href="https://github.com/shourovfoisal">See my other projects</a> | <a href="https://www.foisal.me">My portfolio</a>
