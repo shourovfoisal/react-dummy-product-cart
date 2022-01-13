@@ -1,4 +1,4 @@
-# react_dummy_product_cart
+# React Dummy Product Cart
 This contains my initial fun learn project. A simple dummy product cart representation.
 
 <h2>Screenshots</h2>
